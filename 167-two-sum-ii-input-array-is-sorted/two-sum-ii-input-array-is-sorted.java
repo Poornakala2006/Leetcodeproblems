@@ -4,16 +4,23 @@ class Solution {
         int[] ans = new int[2];
         int numsLength = nums.length,i,j;
 
-        for(i=0;i < numsLength-1;i++)
+        int start = 0;
+        int end = nums.length-1;
+        while(start<end)
         {
-            for(j = i+1;j < numsLength;j++)
+            int sum = nums[start] + nums[end];
+            if(target == sum)
             {
-                if(nums[i]+nums[j] == target)
-                {
-                    ans[0] = i+1;
-                    ans[1] = j+1;
-                    return ans;
-                }
+                ans[0] = start+1;
+                ans[1] = end+1;
+                return ans;
+            }
+            else if(sum < target)
+            {
+                start++;
+            }
+            else{
+                end--;
             }
         }
         return ans;
