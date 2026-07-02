@@ -1,10 +1,10 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
 
-        int left = 0, right=0 , sLen = s.length();
+        int left = 0, right=0;
         int maxLength = 0;
         HashMap<Character,Integer> h1 = new HashMap<>();
-        while(right < sLen)
+        while(right < s.length())
         {
            while(left < right && h1.containsKey(s.charAt(right))==true)
             {
