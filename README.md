@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
