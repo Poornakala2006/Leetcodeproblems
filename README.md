@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0704-binary-search) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0169-majority-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0169-majority-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 <!---LeetCode Topics End-->
