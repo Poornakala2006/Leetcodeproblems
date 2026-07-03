@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0169-majority-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2351-first-letter-to-appear-twice](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0169-majority-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2351-first-letter-to-appear-twice](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2351-first-letter-to-appear-twice](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
