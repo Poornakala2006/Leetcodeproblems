@@ -95,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2351-first-letter-to-appear-twice](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
