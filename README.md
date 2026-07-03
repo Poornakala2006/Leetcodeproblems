@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0704-binary-search) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0283-move-zeroes) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
