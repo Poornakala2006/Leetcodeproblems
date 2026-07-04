@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
