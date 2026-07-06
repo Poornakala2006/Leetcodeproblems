@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
