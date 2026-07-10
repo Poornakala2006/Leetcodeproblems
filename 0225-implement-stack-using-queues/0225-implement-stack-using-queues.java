@@ -1,46 +1,55 @@
 class MyStack {
-
-      Stack<Integer> s1 = new Stack<>();
-
+    
+    Queue<Integer> s1 = new ArrayDeque<>();
     public MyStack() {
         
     }
     
     public void push(int x) {
 
-        s1.push(x);
+        s1.offer(x);
         
     }
     
     public int pop() {
-      
-        var it=s1.peek();
-        s1.pop();
-        return it;
+        int size = s1.size()-1;
+        while(size!=0)
+        {
+            int val=s1.peek();
+            s1.poll();
+            s1.offer(val);
+            size--;
+        }
+        var ans = s1.peek();
+        s1.poll();
+        return ans;
         
     }
     
     public int top() {
-
-        return s1.peek();
+        int size = s1.size()-1;
+        while(size!=0)
+        {
+            int val=s1.peek();
+            s1.poll();
+            s1.offer(val);
+            size--;
+        }
+        var ans = s1.peek();
+        s1.poll();
+        s1.offer(ans);
+        return ans;
         
-    }
+     }
     
     public boolean empty() {
-        
+
         if(s1.isEmpty()==true)
         {
             return true;
         }
         return false;
+        
     }
 }
 
-/**
- * Your MyStack object will be instantiated and called as such:
- * MyStack obj = new MyStack();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.top();
- * boolean param_4 = obj.empty();
- */
