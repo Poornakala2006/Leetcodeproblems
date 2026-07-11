@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
