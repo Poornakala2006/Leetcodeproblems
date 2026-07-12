@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1732-find-the-highest-altitude](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
