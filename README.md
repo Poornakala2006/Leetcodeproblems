@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0704-binary-search) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -191,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
