@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0053-maximum-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0045-jump-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0124-binary-tree-maximum-path-sum) |
