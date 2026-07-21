@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1732-find-the-highest-altitude) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
+| [1539-kth-missing-positive-number](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
