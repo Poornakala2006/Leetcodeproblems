@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0503-next-greater-element-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0414-third-maximum-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
