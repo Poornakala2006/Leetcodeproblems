@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/1539-kth-missing-positive-number) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -267,4 +270,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0240-search-a-2d-matrix-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Poornakala2006/Leetcodeproblems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
